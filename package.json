@@ -17,6 +17,8 @@
   "main": "src/index.js",
   "dependencies": {
     "@builder.io/react": "^1.0.98-alpha.10",
+    "@builder.io/webcomponents": "1.3.35",
+    "@jsx-lite/core": "0.0.3",
     "mdbreact": "5.0.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
